@@ -8,7 +8,8 @@ Team A.S.A
 
 ## The Team
 
-August Alexander: Team Programmer '\n'
+August Alexander: Team Programmer
+
 Andrej Opancic: Team Designer
 Sydonya Miller: Team Lead
 
