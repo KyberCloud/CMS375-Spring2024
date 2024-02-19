@@ -15,9 +15,9 @@ Andrej Opancic: Team Designer
 Sydonya Miller: Team Lead
 
 ## Abstract
-Project Name: Baa
+Project Name: FoxEats
 
-Project Purpose: We love sheep
+Project Purpose: Creating a database & platform for students to order food from the different options on-campus and get it delivered. The page will have a login & password checked by FoxID to make sure it is the correct user.
 
 Project Target: Buy Sheep
 
