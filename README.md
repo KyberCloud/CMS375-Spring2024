@@ -19,6 +19,6 @@ Project Name: FoxEats
 
 Project Purpose: Creating a database & platform for students to order food from the different options on-campus and get it delivered. The page will have a login & password checked by FoxID to make sure it is the correct user.
 
-Project Target: Buy Sheep
+Project Target: A database that 
 
-Data to be used: Count Sheep in Sleep
+Data to be used: FoxID
