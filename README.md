@@ -11,10 +11,14 @@ Team A.S.A
 August Alexander: Team Programmer
 
 Andrej Opancic: Team Designer
+
 Sydonya Miller: Team Lead
 
 ## Abstract
 Project Name:
+
 Project Purpose:
+
 Project Target:
+
 Data to be used:
