@@ -3,7 +3,7 @@ CMS 375 Group Github
 
 
 ## Team Name
-Team Human Cyborgs
+Human Cyborgs
 
 
 ## The Team
