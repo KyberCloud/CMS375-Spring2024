@@ -3,12 +3,11 @@ CMS 375 Group Github
 
 
 ## Team Name
-------------
 Team A.S.A
 
 
 ## The Team
------------
+
 August Alexander Team Programmer
 Andrej Opancic Team Designer
 Sydonya Miller Team Lead
