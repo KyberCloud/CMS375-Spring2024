@@ -7,12 +7,13 @@ Team A.S.A
 
 
 ## The Team
+Sydonya Miller: Team Lead
 
 August Alexander: Team Programmer
 
 Andrej Opancic: Team Designer
 
-Sydonya Miller: Team Lead
+
 
 ## Abstract
 Project Name: FoxEats
