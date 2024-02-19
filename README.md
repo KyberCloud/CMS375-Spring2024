@@ -15,10 +15,10 @@ Andrej Opancic: Team Designer
 Sydonya Miller: Team Lead
 
 ## Abstract
-Project Name:
+Project Name: Baa
 
-Project Purpose:
+Project Purpose: We love sheep
 
-Project Target:
+Project Target: Buy Sheep
 
-Data to be used:
+Data to be used: Count Sheep in Sleep
