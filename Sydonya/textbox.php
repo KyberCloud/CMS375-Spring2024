@@ -12,8 +12,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/extra_clean_paper.png'); /* Background pattern */
-        }
+            
 
         .container {
             background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
@@ -101,7 +100,7 @@
         <input type="submit" name="buttons" class="button" value="Please" />
     </form>
 
-    <a href="hello_syd_page.html" class="button">Say Hello to Syd</a>
+    <a href="me.php" class="button">Click</a>
 </div>
 
 <script>
