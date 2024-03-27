@@ -84,7 +84,7 @@
 
             function button()
             {
-                $sql = "SELECT * from Food";
+                echo 'this isnt working?'
             }
 
             function button1()
@@ -115,7 +115,7 @@
             else
                 echo 'connection established';
 
-
+                //$sql = "SELECT * from Food";
                 
             ?>
         
