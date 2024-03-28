@@ -1,0 +1,13 @@
+Assignment 3 
+CMS 375: Database Design and Development
+
+Who did what
+
+1.
+a. Sydonya - Start Page + Home Page
+b. Andrej - Selection Page + Payment Page
+
+
+2.
+a. Sydonya - Relational Schema
+b. August - SQL + August, Sydonya - PHP
